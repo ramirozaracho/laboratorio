@@ -1,4 +1,4 @@
-[![Abrir en Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ramirozaracho/laboratorio/edit/main/laboratorio1.ipynb)
+[![Abrir en Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ramirozaracho/laboratorio/blob/main/laboratorio1.ipynb)
 
 # laboratorio
 productos
